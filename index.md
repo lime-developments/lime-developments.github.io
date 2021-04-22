@@ -1,5 +1,3 @@
 # CONTENTS
 
 [lime.dev/blog](https://lime.dev/blog/)
-
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTRtJS_zBATZM30W1PiCErNqDLY_Snhtyny96NH6uoPRB0TVUaYjQksZOm7vgtb7cA0MgqojuiTZuhB/pubhtml?gid=251251073&amp;single=true&amp;headers=false"></iframe>
